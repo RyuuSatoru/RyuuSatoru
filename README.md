@@ -8,5 +8,5 @@
 • Language Proficiency: Vietnamese (Native) > Japanese (Advanced) > English (Intermediate) > Chinese (Basic) 📒
 • Location: Currently in Vietnam, but planning to move to Japan for studies soon 🗻
 • Phone: +84 798596103  
-• Gmail: Satorushikaku@gmail.com
+• Email: Satorushikaku@gmail.com
 </pre>
