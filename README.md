@@ -1,6 +1,6 @@
 <pre>
 - Hello everyone 🎓
-• My name is Khoa, but you can call me Satoru✨
+• My name is Khoa, but you can call me Kagami✨
 • I started learning and coding when I was Juu go sai years old💻
 • Hobbies: 🎨 🎹 🎧 🔭
 • Programming Languages: C++ (IoT), Python, Java 🎯
