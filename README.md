@@ -1,6 +1,6 @@
 <pre>
 - Hello everyone 🎓
-• My name is Khoa, but you can call me Haruki✨
+• My name is Khoa, but you can call me Wataru✨
 • I started learning and coding when I was 15 years old💻
 • Hobbies: 🎨 🎹 🎧 🔭
 • Programming Languages: C++ (IoT), Python, Java 🎯
